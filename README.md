@@ -61,3 +61,18 @@ Current webpage:
 - Command history
 
 (Screenshots will be uploaded later.)
+---
+
+## Project Screenshots
+
+### EC2 Instance Running
+![EC2 Screenshot](ss1.jpeg)
+
+### Apache Status
+![Apache Screenshot](ss2.jpeg)
+
+### Website Hosted Publicly
+![Website Screenshot](ss3.jpeg)
+
+### Command History
+![History Screenshot](ss4.jpeg)
