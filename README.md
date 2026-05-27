@@ -90,7 +90,7 @@ HTTPS Link:
 https://syedatajeebaict171.duckdns.org
 
 ### HTTPS Setup Evidence
-![HTTPS Screenshot](https-success.jpeg)
+![HTTPS Screenshot](ss5.jpeg)
 
 ### Script Output Evidence
-![Script Screenshot](script-output.jpeg)
+![Script Screenshot](ss6.jpeg)
