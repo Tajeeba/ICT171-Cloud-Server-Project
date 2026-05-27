@@ -88,3 +88,9 @@ The website has been secured using Let's Encrypt SSL certificates through Certbo
 
 HTTPS Link:
 https://syedatajeebaict171.duckdns.org
+
+### HTTPS Setup Evidence
+![HTTPS Screenshot](https-success.jpeg)
+
+### Script Output Evidence
+![Script Screenshot](script-output.jpeg)
