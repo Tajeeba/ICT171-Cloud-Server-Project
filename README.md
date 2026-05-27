@@ -15,6 +15,9 @@ The server hosts a basic website using Apache2 and is publicly accessible throug
 
 ## Server Information
 
+## Live Website
+http://3.107.199.195
+
 Public IPv4 Address:
 3.107.199.195
 
