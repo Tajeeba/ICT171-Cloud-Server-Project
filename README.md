@@ -16,7 +16,7 @@ The server hosts a basic website using Apache2 and is publicly accessible throug
 ## Server Information
 
 ## Live Website
-http://3.107.199.195
+[http://3.107.199.195](https://syedatajeebaict171.duckdns.org)
 
 Public IPv4 Address:
 3.107.199.195
@@ -79,3 +79,12 @@ Current webpage:
 
 ### Command History
 ![History Screenshot](ss4.jpeg)
+
+---
+
+## HTTPS / SSL Enabled
+
+The website has been secured using Let's Encrypt SSL certificates through Certbot.
+
+HTTPS Link:
+https://syedatajeebaict171.duckdns.org
