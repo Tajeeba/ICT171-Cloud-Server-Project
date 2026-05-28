@@ -94,3 +94,24 @@ https://syedatajeebaict171.duckdns.org
 
 ### Script Output Evidence
 ![Script Screenshot](ss6.jpeg)
+
+## Bash Automation Script
+
+A simple Bash automation script was created to automate Linux server maintenance tasks.
+
+The script performs the following actions:
+
+* Updates package lists
+* Upgrades installed packages
+* Removes unnecessary packages automatically
+
+This demonstrates basic Linux scripting and automation skills used in server administration.
+
+Example commands used:
+
+```bash id="7ec7n2"
+sudo apt update
+sudo apt upgrade -y
+sudo apt autoremove -y
+```
+
